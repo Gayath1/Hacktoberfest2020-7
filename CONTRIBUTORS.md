@@ -270,3 +270,7 @@
  - Place: Kerala, India
  - Bio: Student, Programming enthusiast
  - Github: [SnappierSoap318](https://github.com/SnappierSoap318)
+ #### Name: [Gayath](https://github.com/Gayath1)
+ - Place: Colombo, Srilanka
+ - Bio: Computer Science student
+ - Github: [Gayath1](https://github.com/Gayath1)
